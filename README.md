@@ -59,16 +59,7 @@ Machine Learning Pipeline
    - Accuracy and ROC-AUC
 9. Baseline comparison using majority-class prediction
 
-Results Summary
-The neural network outperformed the baseline classifier, indicating that environmental and health indicators contain predictive signal for identifying high-poverty communities.
 
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-TensorFlow / Keras
-Matplotlib
 
 Academic Context
 Course: OPIM 5509 – Introduction to Deep Learning
