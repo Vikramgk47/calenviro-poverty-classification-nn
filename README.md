@@ -57,7 +57,7 @@ Machine Learning Pipeline
    - Learning curves
    - Confusion matrices
    - Accuracy and ROC-AUC
-9. Baseline comparison using majority-class prediction
+
 
 
 
