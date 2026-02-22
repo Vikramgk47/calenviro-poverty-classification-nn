@@ -61,7 +61,4 @@ Machine Learning Pipeline
 
 
 
-Academic Context
-Course: OPIM 5509 – Introduction to Deep Learning
-University of Connecticut
-Instructor: Dr. Dave Wanik
+
